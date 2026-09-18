@@ -1,7 +1,7 @@
 # UpcomingTech-.md
  Current & Upcoming Skills and Technologies (2026–2030)
 
-A practical roadmap for a Computer Science student who wants to build a future-ready career in software engineering, AI, cloud, and cybersecurity.
+A practical roadmap for a Computer Science student who wants to build a future-ready career in software engineering, AI, cloud
 
 🎯 Core Principle
 
