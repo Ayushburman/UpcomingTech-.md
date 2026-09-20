@@ -31,6 +31,7 @@
 - Next-gen batteries/energy storage
   
 - Synthetic biology
+  
 - Longevity research
 - Commercial space (Moon/Mars)
 - Advanced materials (2D materials, superconductors)
