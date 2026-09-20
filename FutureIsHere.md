@@ -25,6 +25,7 @@
 - CRISPR & gene therapy
   
 - mRNA therapeutics
+  
 - Fusion energy
 - Next-gen batteries/energy storage
 - Synthetic biology
