@@ -41,6 +41,7 @@
 - Brain-computer interfaces
 
 **Skills to learn**
+
 - Agentic AI dev (LangGraph, agent frameworks)
 - MLOps/LLMOps
 - AI security & adversarial robustness
