@@ -10,6 +10,7 @@
 - Neurosymbolic AI
   
 - Quantum computing & quantum ML
+  
 - Post-quantum cryptography
 - Adversarial ML / AI red-teaming
 - Neuromorphic chips
