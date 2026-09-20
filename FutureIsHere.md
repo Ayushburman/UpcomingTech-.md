@@ -29,6 +29,7 @@
 - Fusion energy
   
 - Next-gen batteries/energy storage
+  
 - Synthetic biology
 - Longevity research
 - Commercial space (Moon/Mars)
