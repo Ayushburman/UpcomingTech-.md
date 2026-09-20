@@ -2,6 +2,7 @@
 - Agentic AI & multi-agent systems
   
 - Efficient/on-device models
+  
 - Multimodal & world models
 - AI interpretability & safety
 - Neurosymbolic AI
