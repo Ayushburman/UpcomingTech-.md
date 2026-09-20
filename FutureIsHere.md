@@ -27,6 +27,7 @@
 - mRNA therapeutics
   
 - Fusion energy
+  
 - Next-gen batteries/energy storage
 - Synthetic biology
 - Longevity research
