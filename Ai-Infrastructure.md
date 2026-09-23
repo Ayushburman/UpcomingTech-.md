@@ -84,6 +84,7 @@ You could build something optimized specifically for India:
 > Voice AI	Huge Indian market
 
 > WhatsApp-based AI	Very strong distribution
+
 > Low-cost AI	Major differentiator
 
 Imagine:
