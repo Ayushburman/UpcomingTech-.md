@@ -10,7 +10,7 @@
 Instead of competing purely on model size:
 
 * 128K → 1M+ token context
-* efficient KV-cache
+* efficient KV-c
 * long-document understanding
 * conversation memory
 * RAG over personal/company do
