@@ -11,9 +11,7 @@ Instead of competing purely on model size:
 
 * RAG over personal/
 ## 3. Indian-language 
-Hindi + English initially, then:
-
-* Bengali
+Hindi + English initially,
 * Tamil
 * Telugu
 * Marathi
