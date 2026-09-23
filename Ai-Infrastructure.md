@@ -1,4 +1,4 @@
-Yes. I can absolutely help you design an India-built AI assistant inspired by the capabilities of 
+Yes. I can absolutely help you design an India-built AI assistant inspired by the capabilities 
 
 1. Foundation model
 
