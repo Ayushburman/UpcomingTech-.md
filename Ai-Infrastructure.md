@@ -1,7 +1,7 @@
 
 
 * Start with an open-weight model such as Llama, Qwen, Gemma, Mistral, 
-* Fine-tune it for Indian languages and Indian-context reasoning.
+* Fine-tune it for Indian languages and Indian-context
 * Eventually train your own foundation model from scratch if economics justify it.
 
 ## 2. Huge context window
