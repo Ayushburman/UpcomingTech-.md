@@ -96,7 +96,7 @@ Imagine:
 
 ⸻
 
-Could you actually train a model comparable to me?
+> Could you actually train a model comparable to me?
 
 Technically, yes.
 
