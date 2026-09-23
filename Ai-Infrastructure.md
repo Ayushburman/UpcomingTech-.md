@@ -13,7 +13,7 @@ Instead of competing purely on model size:
 * efficient KV-cache
 * long-document understanding
 * conversation memory
-* RAG over personal/company documen
+* RAG over personal/company do
 ## 3. Indian-language intelligence
 Hindi + English initially, then:
 
