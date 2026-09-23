@@ -148,7 +148,7 @@ Now you’re dealing with:
 * safety
 * inference optimization
 
-This becomes a serious AI company.
+# This becomes a serious AI company.
 
 Level 3 — Frontier laboratory
 
