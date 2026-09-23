@@ -92,7 +92,7 @@ Imagine:
 
 > ₹99/month → extremely high usage limits
 
-with intelligent routing so the company isn’t actually running an expensive frontier model for every message.
+> with intelligent routing so the company isn’t actually running an expensive frontier model for every message.
 
 ⸻
 
