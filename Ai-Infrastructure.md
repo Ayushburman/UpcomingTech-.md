@@ -14,7 +14,7 @@ Instead of competing purely on model size:
 * long-document understanding
 * conversation me
 * RAG over personal/compan
-## 3. Indian-language intell
+## 3. Indian-language 
 Hindi + English initially, then:
 
 * Bengali
