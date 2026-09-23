@@ -87,6 +87,7 @@ You could build something optimized specifically for India:
 
 > Low-cost AI	Major differentiator
 
+
 Imagine:
 
 ₹99/month → extremely high usage limits
