@@ -102,7 +102,7 @@ Imagine:
 
 > Economically and operationally, that’s the difficult part.
 
-There are roughly three levels:
+> There are roughly three levels:
 
 Level 1 — AI product
 
