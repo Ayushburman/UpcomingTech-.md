@@ -63,7 +63,7 @@ The really interesting part: don’t try to beat ChatGPT at everything
 
 You could build something optimized specifically for India:
 
-Area	Opportunity
+> Area	Opportunity
 Indian languages	Very large
 Education	GATE/JEE/UPSC/university tutoring
 Government services	Huge potential
