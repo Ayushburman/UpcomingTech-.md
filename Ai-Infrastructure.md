@@ -1,4 +1,4 @@
-Yes. I can absolutely help you design an India-built
+Yes. I can absolutely help you design an India
 1. Foundation model
 
 * Start with an open-weight model such as Llama, Qwen, Gemma, Mistral, etc.
