@@ -70,6 +70,7 @@ You could build something optimized specifically for India:
 > Education	GATE/JEE/UPSC/university tutoring
 
 > Government services	Huge potential
+
 > Agriculture	Local-language assistance
 > SMBs	AI employees
 > Coding	Indian developers/students
