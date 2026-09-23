@@ -66,6 +66,7 @@ You could build something optimized specifically for India:
 > Area	Opportunity
 
 > Indian languages	Very large
+
 > Education	GATE/JEE/UPSC/university tutoring
 > Government services	Huge potential
 > Agriculture	Local-language assistance
