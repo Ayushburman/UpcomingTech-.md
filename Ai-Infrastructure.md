@@ -1,6 +1,6 @@
 
 * Start with an open-weight model such as 
-* Fine-tune it for Indian languages 
+* Fine-tune it for Indian
 * Eventually train your own 
 ## 2. Huge context window
 Instead of competing purely on model size:
