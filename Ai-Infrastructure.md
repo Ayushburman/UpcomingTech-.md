@@ -1,6 +1,5 @@
 >
 >
->
 1. Foundation model
 
 * Start with an open-weight model such as Llama, Qwen, Gemma, Mistral, etc.
