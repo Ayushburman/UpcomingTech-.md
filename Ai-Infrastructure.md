@@ -31,7 +31,7 @@ Hindi + English initially, then:
 
 The goal would be native reasoning, not merely translating English internally.
 
-4. Much cheaper inference
+## 4. Much cheaper inference
 
 This is where an Indian company could potentially differentiate.
 
