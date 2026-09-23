@@ -80,6 +80,7 @@ You could build something optimized specifically for India:
 > Healthcare information	Carefully regulated
 
 > Legal information	Carefully regulated
+
 > Voice AI	Huge Indian market
 > WhatsApp-based AI	Very strong distribution
 > Low-cost AI	Major differentiator
