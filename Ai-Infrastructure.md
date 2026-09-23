@@ -1,10 +1,4 @@
-Yes. I can absolutely help you design an India-built AI assistant inspired by the capabilities of ChatGPT, including architecture, model selection, training strategy, token economics, inference infrastructure, multilingual support, and a low-cost pricing model.
-
-The important distinction is: I can help you build a similar class of system, but I can’t provide OpenAI’s proprietary model weights, private training data, confidential architecture, or hidden system instructions.
-
-🇮🇳 What I would build
-
-Think of it as an India-first AI platform, rather than simply “ChatGPT but cheaper”:
+Yes. I can absolutely help you design an India-built AI assistant inspired by the capabilities of ChatGPT, including architecture, model selection, training strategy, token economics, inference infrastructure, multilingual support, andIndia-first AI platform, rather than simply “ChatGPT but cheaper”:
 
 1. Foundation model
 
