@@ -104,7 +104,7 @@ Imagine:
 
 > There are roughly three levels:
 
-Level 1 — AI product
+# Level 1 — AI product
 
 Use existing open-weight models.
 
