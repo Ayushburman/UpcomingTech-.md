@@ -15,7 +15,7 @@ Instead of competing purely on model size:
 * conversation memory
 * RAG over personal/company documents
 
-3. Indian-language intelligence
+## 3. Indian-language intelligence
 Hindi + English initially, then:
 
 * Bengali
