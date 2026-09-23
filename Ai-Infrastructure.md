@@ -1,4 +1,4 @@
-Yes. I can absolutely help you design an India-built AI assistant inspired by the capabilities of ChatGPT, including architecture, model selection, training strategy, token economics, inference infrastructure, multilingual support, andIndia-first AI platform, rather 
+Yes. I can absolutely help you design an India-built AI assistant inspired by the capabilities of ChatGPT, including architecture, model selection, training strategy, token economics, inference infrastructure, multilingual support, andIndia-first AI platform, 
 
 1. Foundation model
 
