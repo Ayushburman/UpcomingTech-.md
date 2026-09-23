@@ -1,4 +1,4 @@
-If you mean AI research, I can help you from beginner level all the way to doing research at a level suitable for publishing papers.
+If you mean AI research, I can help you from beginner level all the way to doing research at a level suitable for publishing 
 
 🧠 AI Research — Roadmap
 
