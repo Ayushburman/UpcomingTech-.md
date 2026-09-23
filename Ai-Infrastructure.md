@@ -13,7 +13,7 @@ Instead of competing purely on model size:
 * efficient KV-c
 * long-document understanding
 * conversation me
-* RAG over personal/compan
+* RAG over personal/
 ## 3. Indian-language 
 Hindi + English initially, then:
 
