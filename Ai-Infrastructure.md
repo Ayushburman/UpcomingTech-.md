@@ -1,6 +1,4 @@
 
->
-# 1. Foundation
 
 * Start with an open-weight model such as Llama, Qwen, Gemma, Mistral, etc.
 * Fine-tune it for Indian languages and Indian-context reasoning.
