@@ -1,6 +1,5 @@
 
-
-* Start with an open-weight model such as Llama, Qwen, 
+* Start with an open-weight model such as Llama,
 * Fine-tune it for Indian languages and Indian-context
 * Eventually train your own foundation model from scratch if economics justify it.
 
