@@ -12,7 +12,7 @@ Instead of competing purely on model size:
 * 128K → 1M+ token context
 * efficient KV-c
 * long-document understanding
-* conversation memory
+* conversation me
 * RAG over personal/company do
 ## 3. Indian-language intelligence
 Hindi + English initially, then:
