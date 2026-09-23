@@ -160,7 +160,7 @@ You’d need enormous capital, compute, researchers, data infrastructure and yea
 
 ⸻
 
-But here’s the strategy I’d recommend
+# But here’s the strategy I’d recommend
 
 Don’t start by saying:
 
