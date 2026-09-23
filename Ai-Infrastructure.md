@@ -100,7 +100,7 @@ Imagine:
 
 > Technically, yes.
 
-Economically and operationally, that’s the difficult part.
+> Economically and operationally, that’s the difficult part.
 
 There are roughly three levels:
 
