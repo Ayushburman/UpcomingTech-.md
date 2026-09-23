@@ -13,7 +13,7 @@ Instead of competing purely on model size:
 * efficient KV-c
 * long-document understanding
 * conversation me
-* RAG over personal/company do
+* RAG over personal/compan
 ## 3. Indian-language intell
 Hindi + English initially, then:
 
