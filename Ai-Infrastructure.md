@@ -1,4 +1,4 @@
-Yes. I can absolutely help
+Yes. I can absolutely 
 1. Foundation model
 
 * Start with an open-weight model such as Llama, Qwen, Gemma, Mistral, etc.
