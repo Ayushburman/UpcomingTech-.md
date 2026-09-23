@@ -1,5 +1,4 @@
-Yes. I can absolutely help you design an India-built AI assistant 
-
+Yes. I can absolutely help you design an India-built AI
 1. Foundation model
 
 * Start with an open-weight model such as Llama, Qwen, Gemma, Mistral, etc.
