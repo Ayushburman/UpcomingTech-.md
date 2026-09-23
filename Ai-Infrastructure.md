@@ -98,7 +98,7 @@ Imagine:
 
 > Could you actually train a model comparable to me?
 
-Technically, yes.
+> Technically, yes.
 
 Economically and operationally, that’s the difficult part.
 
