@@ -70,7 +70,7 @@ You could build something optimized specifically for India:
 > Agriculture	Local-language assistance
 > SMBs	AI employees
 > Coding	Indian developers/students
-Healthcare information	Carefully regulated
+> Healthcare information	Carefully regulated
 Legal information	Carefully regulated
 Voice AI	Huge Indian market
 WhatsApp-based AI	Very strong distribution
