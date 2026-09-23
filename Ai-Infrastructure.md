@@ -6,7 +6,7 @@
 * Fine-tune it for Indian languages and Indian-context reasoning.
 * Eventually train your own foundation model from scratch if economics justify it.
 
-2. Huge context window
+## 2. Huge context window
 Instead of competing purely on model size:
 
 * 128K → 1M+ token context
