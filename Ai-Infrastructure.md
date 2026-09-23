@@ -1,7 +1,7 @@
 
 * Start with an open-weight model such as Llama
 * Fine-tune it for Indian languages 
-* Eventually train your own foundation m
+* Eventually train your own 
 ## 2. Huge context window
 Instead of competing purely on model size:
 
