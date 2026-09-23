@@ -116,12 +116,7 @@ You build:
 
 Open model
    +
-Fine-tuning
-   +
-RAG
-   +
-Tools
-   +
+Fine-
 Memory
    +
 Voice
