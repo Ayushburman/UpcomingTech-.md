@@ -2,10 +2,7 @@
 * Start with an open-weight model such as 
 * Fine-tune it for Indian
 * Eventually train your own 
-## 2. Huge context window
-Instead of competing purely on model size:
-
-* 128K → 1M+ token context
+## 2. Huge context 
 * 
 * long-document understanding
 
