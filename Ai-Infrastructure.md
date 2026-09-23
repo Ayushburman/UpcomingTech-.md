@@ -67,7 +67,7 @@ You could build something optimized specifically for India:
 > Indian languages	Very large
 > Education	GATE/JEE/UPSC/university tutoring
 > Government services	Huge potential
-Agriculture	Local-language assistance
+> Agriculture	Local-language assistance
 SMBs	AI employees
 Coding	Indian developers/students
 Healthcare information	Carefully regulated
