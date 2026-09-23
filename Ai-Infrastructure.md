@@ -69,7 +69,7 @@ You could build something optimized specifically for India:
 > Government services	Huge potential
 > Agriculture	Local-language assistance
 > SMBs	AI employees
-Coding	Indian developers/students
+> Coding	Indian developers/students
 Healthcare information	Carefully regulated
 Legal information	Carefully regulated
 Voice AI	Huge Indian market
