@@ -10,3 +10,4 @@ jkl
 pol
 thu
 kij
+jik
