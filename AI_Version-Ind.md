@@ -12,4 +12,5 @@ thu
 kij
 jik
 hji
+bhu
 
